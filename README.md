@@ -1,6 +1,6 @@
 <h2>Airline_Passenger_Satisfaction</h2>
 
-
+<img src="https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/04/ACSIhotelflightsatisfaction.jpg">
 <h3>Abstract</h3>
 This project worked on a dataset that contains an airline passenger satisfaction survey. The project aimed to build classification models to predict passenger satisfaction and identify which model is outperformed based on accuracy. We have trained our models using DecisionTreeClassifier it performs 94% of accuracy and also we used Neural Networks it is also  performed well with 95% of accuracy.
 Also we segment the customers we got extracted 5 clusters using K-Means algorithm
@@ -48,13 +48,12 @@ Languages:
           Python
 
 Libraries:
-
-1.Numpy and Pandas for data manipulation.
-2.Matplotlib and Seaborn for plotting.
-3.Sklearn for machine learning and statistical modeling.
-4.Tensorflow for Neural Networks
+1.Numpy and Pandas for data manipulation.<br>
+2.Matplotlib and Seaborn for plotting.<br>
+3.Sklearn for machine learning and statistical modeling.<br>
+4.Tensorflow for Neural Networks<br>
 5.Yellowbrick for Elbow method visualization.
-
+<br>
 Tools :
 
          1.Jupyter NoteBook
