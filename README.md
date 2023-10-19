@@ -1,15 +1,15 @@
-Airline_Passenger_Satisfaction
+<h2>Airline_Passenger_Satisfaction</h2>
 
 
-Abstract
+<h3>Abstract</h3>
 This project worked on a dataset that contains an airline passenger satisfaction survey. The project aimed to build classification models to predict passenger satisfaction and identify which model is outperformed based on accuracy. We have trained our models using DecisionTreeClassifier it performs 94% of accuracy and also we used Neural Networks it is also  performed well with 95% of accuracy.
 Also we segment the customers we got extracted 5 clusters using K-Means algorithm
 
-About Dataset :
+<h3>About Dataset :</h3>
 
 We used a dataset of Airline Passenger Satisfaction survey from kaggle contain customers satisfaction (target variable) and various survey ratings, which contains 103904 rows and 25 features.
 
-Methodology
+<h3>Methodology</h3>
 
 1.Data Analysis and Exploration
   Here we done Analysis of dataset like Target feature visualization,shape of data,outlier detection, duplicates detection,etc..
@@ -23,7 +23,7 @@ Methodology
 4.Feature Extraction(Dimensionality Reduction)
 Here we used PCA technique for feature extraction in the view of clustering.
 
-Models And Algorithms Used:
+<h3>Models And Algorithms Used:</h3>
 
 Here we used different techniques for model building.
 
@@ -41,7 +41,7 @@ Here we used different techniques for model building.
     Here we segmented the 5 clusters using ElBow method For that we Extracted Clusters using K-means K value = 5  
 
 
-Tech Stack :
+<h3>Tech Stack :</h3>
 
 Languages:
 
