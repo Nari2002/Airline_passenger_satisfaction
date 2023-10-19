@@ -48,6 +48,7 @@ Languages:
           Python
 
 Libraries:
+<br>
 1.Numpy and Pandas for data manipulation.<br>
 2.Matplotlib and Seaborn for plotting.<br>
 3.Sklearn for machine learning and statistical modeling.<br>
