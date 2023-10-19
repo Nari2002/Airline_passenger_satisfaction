@@ -11,19 +11,19 @@ We used a dataset of Airline Passenger Satisfaction survey from kaggle contain c
 
 <h3>Methodology</h3>
 
-<h4>1.Data Analysis and Exploration</h4>
+<h4>1.Data Analysis and Exploration</h4><br>
   Here we done Analysis of dataset like Target feature visualization,shape of data,outlier detection, duplicates detection,etc..
 
-<h4>2.Feature Engineering</h4>
+<h4>2.Feature Engineering</h4><br>
  Here we resolved outliers,also done label encoding and Scaling data using Standard Scaler
 
-<h4>3.Feature Selection</h4>
+<h4>3.Feature Selection</h4><br>
  Here we used pearson correlation technique for numerical data and Chi2 test for categorical data
 
-<h4>4.Feature Extraction(Dimensionality Reduction)</h4>
+<h4>4.Feature Extraction(Dimensionality Reduction)</h4><br>
 Here we used PCA technique for feature extraction in the view of clustering.
 
-<h3>Models And Algorithms Used:</h3>
+<h3>Models And Algorithms Used:</h3><br>
 
 Here we used different techniques for model building.
 
