@@ -11,43 +11,43 @@ We used a dataset of Airline Passenger Satisfaction survey from kaggle contain c
 
 <h3>Methodology</h3>
 
-1.Data Analysis and Exploration
+<h4>1.Data Analysis and Exploration</h4>
   Here we done Analysis of dataset like Target feature visualization,shape of data,outlier detection, duplicates detection,etc..
 
-2.Feature Engineering
+<h4>2.Feature Engineering</h4>
  Here we resolved outliers,also done label encoding and Scaling data using Standard Scaler
 
-3.Feature Selection
+<h4>3.Feature Selection</h4>
  Here we used pearson correlation technique for numerical data and Chi2 test for categorical data
 
-4.Feature Extraction(Dimensionality Reduction)
+<h4>4.Feature Extraction(Dimensionality Reduction)</h4>
 Here we used PCA technique for feature extraction in the view of clustering.
 
 <h3>Models And Algorithms Used:</h3>
 
 Here we used different techniques for model building.
 
-1.DecisionTreeClassifier
+<h4>1.DecisionTreeClassifier</h4>
 
       Decision Tree performs well and gives accuracy about 94%.
 
-2.NeuralNetworks(ANN)
+<h4>2.NeuralNetworks(ANN)</h4>
 
      Here we used ANN for our model which gives 
       Accuracy 95%
       Validation accuracy 94%
 
-3.Clustering using K-means
+<h4>3.Clustering using K-means</h4>
     Here we segmented the 5 clusters using ElBow method For that we Extracted Clusters using K-means K value = 5  
 
 
 <h3>Tech Stack :</h3>
 
-Languages:
+<h4>Languages:</h4>
 
           Python
 
-Libraries:
+<h4>Libraries:</h4>
 <br>
 1.Numpy and Pandas for data manipulation.<br>
 2.Matplotlib and Seaborn for plotting.<br>
@@ -55,6 +55,6 @@ Libraries:
 4.Tensorflow for Neural Networks<br>
 5.Yellowbrick for Elbow method visualization.
 <br>
-Tools :
+<h4>Tools:</h4>
 
          1.Jupyter NoteBook
